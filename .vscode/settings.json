@@ -1,0 +1,8 @@
+{
+    "code-runner.saveAllFilesBeforeRun": true,
+    "code-runner.saveFileBeforeRun": true,
+    "editor.fontSize": 20,
+    "files.associations": {
+        "iostream": "cpp"
+    }
+}
