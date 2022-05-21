@@ -1,0 +1,1 @@
+{"name":"Local: csesroomallocation","url":"c:\\Users\\Admin\\Desktop\\cp\\csesroomallocation.cpp","tests":[{"id":1648994668981,"input":"3\n1 2\n2 4\n4 4","output":"2\n1 2 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Admin\\Desktop\\cp\\csesroomallocation.cpp","group":"local","local":true}

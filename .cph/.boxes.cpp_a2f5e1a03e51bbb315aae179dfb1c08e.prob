@@ -1,0 +1,1 @@
+{"name":"Local: boxes","url":"c:\\Users\\Admin\\Desktop\\cp\\boxes.cpp","tests":[{"id":1647031350828,"input":"3\n1 2 3","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Admin\\Desktop\\cp\\boxes.cpp","group":"local","local":true}

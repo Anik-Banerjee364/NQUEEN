@@ -1,0 +1,1 @@
+{"name":"Local: csesreadingbooks","url":"c:\\Users\\Admin\\Desktop\\cp\\csesreadingbooks.cpp","tests":[{"id":1649082293475,"input":"3\n2 8 3","output":"16"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Admin\\Desktop\\cp\\csesreadingbooks.cpp","group":"local","local":true}

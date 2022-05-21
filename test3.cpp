@@ -7,7 +7,7 @@ int main(){
     while(T--){
         int n,k,x;
         cin>>n>>k>>x;
-        if(k<=n && k>x){
+        if(k<=n && k>=x){
             int p=0;
             for(int i=0;i<n;i+=1){
                 if(p==x){

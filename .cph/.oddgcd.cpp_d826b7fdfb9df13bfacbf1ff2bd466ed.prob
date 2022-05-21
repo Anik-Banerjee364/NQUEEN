@@ -1,0 +1,1 @@
+{"name":"Local: oddgcd","url":"c:\\Users\\Admin\\Desktop\\cp\\oddgcd.cpp","tests":[{"id":1648586859341,"input":"3\n3\n2 3 5\n2\n4 6\n3 \n4 12 24","output":"0\n1 \n2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Admin\\Desktop\\cp\\oddgcd.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: starters31","url":"c:\\Users\\Admin\\Desktop\\cp\\starters31.cpp","tests":[{"id":1648050067861,"input":"3\n1\n2\n3\n","output":"-1\n1\n-2\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Admin\\Desktop\\cp\\starters31.cpp","group":"local","local":true}

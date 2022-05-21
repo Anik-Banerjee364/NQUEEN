@@ -1,0 +1,1 @@
+{"name":"Local: chefimpresseschefina","url":"c:\\Users\\Admin\\Desktop\\cp\\chefimpresseschefina.cpp","tests":[{"id":1647462319760,"input":"3\n1 4\n5\n3 15\n4 4 5\n3 10\n6 7 4","output":"1\n3\n2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Admin\\Desktop\\cp\\chefimpresseschefina.cpp","group":"local","local":true}

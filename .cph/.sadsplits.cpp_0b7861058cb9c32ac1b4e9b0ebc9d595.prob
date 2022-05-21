@@ -1,0 +1,1 @@
+{"name":"Local: sadsplits","url":"c:\\Users\\Admin\\Desktop\\cp\\sadsplits.cpp","tests":[{"id":1649963211822,"input":"2\n10\n73452\n","output":"NO\nYES\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Admin\\Desktop\\cp\\sadsplits.cpp","group":"local","local":true}

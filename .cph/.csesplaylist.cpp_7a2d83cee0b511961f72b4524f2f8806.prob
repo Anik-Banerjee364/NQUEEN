@@ -1,0 +1,1 @@
+{"name":"Local: csesplaylist","url":"c:\\Users\\Admin\\Desktop\\cp\\csesplaylist.cpp","tests":[{"id":1648934146690,"input":"8\n1 2 1 3 2 7 4 2","output":"5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Admin\\Desktop\\cp\\csesplaylist.cpp","group":"local","local":true}

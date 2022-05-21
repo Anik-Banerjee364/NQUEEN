@@ -1,0 +1,1 @@
+{"name":"Local: newprog","url":"c:\\Users\\Admin\\Desktop\\cp\\newprog.cpp","tests":[{"id":1650971466670,"input":"8\naaaabbb\nbbaaaaabbb\naaaaaa\nabab\na\nb\naaaab\nbbaaa\n","output":"YES\nYES\nYES\nNO\nNO\nNO\nNO\nYES\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Admin\\Desktop\\cp\\newprog.cpp","group":"local","local":true}

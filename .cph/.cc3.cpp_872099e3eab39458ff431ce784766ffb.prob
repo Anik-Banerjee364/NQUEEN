@@ -1,0 +1,1 @@
+{"name":"Local: cc3","url":"c:\\Users\\Admin\\Desktop\\cp\\cc3.cpp","tests":[{"id":1649820971457,"input":"3\njohn johanna\nira ira\nkayla jayla","output":"YES\nYES\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Admin\\Desktop\\cp\\cc3.cpp","group":"local","local":true}
